@@ -1,8 +1,4 @@
-
-
 /* Global Styles */
-
-
 :root {
   --primary-color: #007bff;
   --secondary-color: #6c757d;
@@ -354,36 +350,4 @@ button {
 
 .fade-in {
   animation: fadeIn var(--transition-speed) ease-in;
-}
-.home {
-  background-color: var(--background-light);
-  color: var(--text-light);
-}
-.footer {
-  background-color: var(--primary-color);
-  color: white;
-}
-
-.navbar {
-  background-color: var(--primary-color);
-  color: white;
-}
-.home {
-  background-color: var(--background-light);
-  color: var(--text-light);
-}
-
-.gallery-page {
-  background-color: var(--background-light);
-  color: var(--text-light);
-}
-
-.about {
-  background-color: var(--background-light);
-  color: var(--text-light);
-}
-
-.contact {
-  background-color: var(--background-light);
-  color: var(--text-light);
 }
